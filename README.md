@@ -1,28 +1,46 @@
-# Hey there! 👋
+# Bate Bita • Business and Data Analyst
 
-Welcome to my little corner of GitHub! 🌟 
+I turn messy data into clean decisions. I work across stakeholders to define the question, pull the data, build the analysis, and present the story with clear visuals.
 
-I'm **Bate Bita Tambe**, a passionate data enthusiast, aspiring storyteller, and someone who's always curious about how to make life better through insights and creativity.
+**Target location:** North Carolina, especially Charlotte and the Research Triangle  
+**Focus:** Business analytics, operations insights, KPI dashboards, and data process improvement
 
-### 🌍 Who am I?
-I'm an international student navigating life in Germany with big dreams and even bigger determination. From diving deep into data science to exploring the art of turning messy datasets into meaningful stories, I thrive at the intersection of analytics and creativity.
+---
 
-### 💻 What you’ll find here:
-- **Data Projects:** My journey into machine learning, analytics, and data wrangling.
-- **Practical Insights:** Projects that focus on real-world applications, like predictive modeling and performance optimization.
-- **Future Stories:** I aspire to inspire others to chase their dreams and unlock their full potential, whether through data or personal growth.
+## What I do
+- Translate business questions into data tasks  
+- Query, model, and validate datasets  
+- Build KPI dashboards and concise executive summaries  
+- Present findings to non-technical stakeholders
 
-### 🎯 My Core Beliefs:
-- **Integrity, Gratitude, and Growth:** These values guide everything I do, from coding to life decisions.
-- **Data is Beautiful:** It's more than just numbers—it’s a language that tells us what we need to know.
-- **Collaboration is Key:** The best ideas come from working together and listening to different perspectives.
+## Tools I use
+SQL • Python • Power BI • Tableau • Excel • Git • Jupyter
 
-### 🛠️ Current Excitement:
-- Starting a new adventure at Airbus Defence and Space as a Working Student in Data Management and Analytics! 🚀
-- Finding ways to balance my professional ambitions with my personal growth journey.
+---
 
-### 💌 Let’s Connect:
-If you're passionate about data, looking for collaboration, or just want to chat, I’d love to hear from you! Drop me a message or check out my projects—I promise there’s always something exciting brewing.
+## Featured projects
+> Pinned below. Each repo has a 1-minute README with problem, approach, impact, and how to run.
 
-Thanks for stopping by! ✨
+1. **Hotel Cancellations Analytics**  
+   Forecasts cancellations and surfaces operational levers for revenue protection.  
+   Result: reduced overbooking risk and improved room allocation scenarios.
 
+2. **Customer Feedback NLP Insights**  
+   Topic modelling and sentiment on reviews to prioritise fixes and features.  
+   Result: ranked top 5 drivers of dissatisfaction with example quotes.
+
+3. **Operations KPI Dashboard**  
+   Power BI dashboard with trends, alerts, and drill-downs for leadership.  
+   Result: weekly reporting time cut by 50 percent.
+
+---
+
+## Quick stats
+- Stakeholder-facing presentations and executive summaries  
+- Hands-on with data cleaning, joins, feature prep, and visual storytelling  
+- Comfortable in sprints, clear tickets, and version control
+
+---
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/bate-bita-tambe-a29ab6221) • Email available on request
