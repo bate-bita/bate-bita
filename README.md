@@ -29,7 +29,7 @@ I help teams translate metrics into clarity and decisions. I work across stakeho
 
 ## Featured projects
 
-### 1. [Hotel Cancellations Analytics (Python, scikit-learn, Pandas)](https://github.com/bate-bita/Predicting-Hotel-Booking-Cancellations)
+### 1. [Hotel Cancellations Analytics (Python, scikit-learn, Pandas)](https://github.com/bate-bita/Predicting-Hotel-Booking-Cancellations.)
 
 Predicted hotel booking cancellations using real-world data to support revenue optimisation decisions.
 
@@ -39,7 +39,7 @@ Predicted hotel booking cancellations using real-world data to support revenue o
 - Achieved the best balance with Random Forest (F1 = 82%), while Decision Tree delivered the highest recall (78%), minimising missed cancellations.  
 - Presented actionable insights for hotel revenue management and overbooking risk reduction.  
 
-### 2. [Understanding Text through Word Embeddings (Python, Natural Language Processing)](https://github.com/bate-bita/Word-Embeddings-NLP)
+### 2. [Understanding Text through Word Embeddings (Python, Natural Language Processing)](https://github.com/bate-bita/Word-Embeddings-Natural-Language-Processing-)
 
 Explored how computers interpret word meaning through vector-based text representations.
 
