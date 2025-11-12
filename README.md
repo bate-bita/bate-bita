@@ -23,7 +23,7 @@ I help teams translate metrics into clarity and decisions. I work across stakeho
 ## Competencies
 **Analytical:** KPI tracking, data visualisation, performance reporting, process improvement.  
 **Soft Skills:** Stakeholder communication, problem-solving, adaptability, cross-functional collaboration.  
-**Work Style:** Detail-oriented, reliable, and efficient under pressure.  
+**Work Style:** Detail-oriented, reliable, and impact driven.  
 
 
 
