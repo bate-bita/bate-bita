@@ -4,6 +4,7 @@ I help teams translate metrics into clarity and decisions. I work across stakeho
 
 **Target location:** North Carolina, especially Charlotte and the Research Triangle  
 **Focus:** Business analytics, operations insights, KPI dashboards, and data process improvement  
+
 **Tools:** SQL | Python | Power BI | Excel | Google Workspace | SAP Analytics Cloud | Jira  
 [LinkedIn](https://www.linkedin.com/in/bate-bita-tambe-a29ab6221)
 
@@ -21,8 +22,8 @@ I help teams translate metrics into clarity and decisions. I work across stakeho
 
 ## Competencies
 **Analytical:** KPI tracking, data visualisation, performance reporting, process improvement.  
-**Soft Skills:** Stakeholder communication, problem-solving, adaptability, cross-functional collaboration. 
-**Work Style:** Detail-oriented, reliable, and impact drive.
+**Soft Skills:** Stakeholder communication, problem-solving, adaptability, cross-functional collaboration.  
+**Work Style:** Detail-oriented, reliable, and efficient under pressure.  
 
 
 
