@@ -7,7 +7,7 @@ I help teams translate metrics into clarity and decisions. I work across stakeho
 **Tools:** SQL | Python | Power BI | Excel | Google Workspace | SAP Analytics Cloud | Jira  
 [LinkedIn](https://www.linkedin.com/in/bate-bita-tambe-a29ab6221)
 
----
+
 
 ## What I do
 - Translate business questions into measurable data tasks.  
@@ -17,14 +17,14 @@ I help teams translate metrics into clarity and decisions. I work across stakeho
 - Communicate insights clearly to both technical and non-technical stakeholders.  
 - Optimise data processes to improve accuracy and reduce manual work.  
 
----
+
 
 ## Competencies
 **Analytical:** KPI tracking, data visualisation, performance reporting, process improvement.  
 **Soft Skills:** Stakeholder communication, problem-solving, adaptability, cross-functional collaboration. 
 **Work Style:** Detail-oriented, reliable, and impact drive.
 
----
+
 
 ## Featured projects
 
@@ -48,7 +48,7 @@ Predicted whether hotel guests would cancel their bookings using a dataset of 11
 - Analysed learned embeddings to explain how algorithms capture linguistic context for downstream NLP tasks such as sentiment analysis and topic detection.  
 - Gained deeper understanding of data representation, vector similarity, and the logic behind modern language models.  
 
----
+
 
 ## Future Projects
 
