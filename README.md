@@ -2,10 +2,10 @@
 
 I help teams translate metrics into clarity and decisions. I work across stakeholders to connect business questions to data-driven answers. At Airbus Defence and Space, I build KPI systems, automate reporting, and communicate insights that support executive-level decision-making.
 
-**Target location:** North Carolina (Ideally Charlotte or the Research Triangle) and Richmond, Virginia.  
+**Target location:** North Carolina (Ideally Charlotte or the Research Triangle) or Richmond, Virginia.  
 **Focus:** Business analytics, operations insights, KPI dashboards, and data process improvement  
 
-**Tools:** SQL | Python | Power BI | Excel | Google Workspace | SAP Analytics Cloud | Jira  
+**Tools:** Google Workspace | Excel | SAP Analytics Cloud | Python | Power BI | SQL | Jira  
 [LinkedIn](https://www.linkedin.com/in/bate-bita-tambe-a29ab6221)
 
 
