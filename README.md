@@ -1,9 +1,9 @@
-# Bate Bita • Business and Data Analyst
+# Bate Bita • Data and Operations Analyst
 
-I help teams translate metrics into clarity and decisions. I work across stakeholders to connect business questions to data-driven answers. At Airbus Defence and Space, I build KPI systems, automate reporting, and communicate insights that support executive-level decision-making.
+I help teams translate metrics into clarity and decisions. I work across stakeholders to connect business questions to data-driven answers. At Airbus Defence and Space, I built KPI systems, automated reporting, and communicated insights that supported executive-level decision-making.
 
-**Target location:** North Carolina (Ideally Charlotte or the Research Triangle) or Richmond, Virginia.  
-**Focus:** Business analytics, operations insights, KPI dashboards, and data process improvement  
+**Target location:** North Carolina (Ideally Charlotte or the Research Triangle) or Virginia.  
+**Focus:** Business analytics, operations insights, performance reporting, and data process improvement  
 
 **Tools:** Google Workspace | Excel | SAP Analytics Cloud | Python | Power BI | SQL | Jira  
 [LinkedIn](https://www.linkedin.com/in/bate-bita-tambe-a29ab6221)
@@ -23,6 +23,7 @@ I help teams translate metrics into clarity and decisions. I work across stakeho
 ## Competencies
 **Analytical:** KPI tracking, data visualisation, performance reporting, process improvement.  
 **Soft Skills:** Stakeholder communication, problem-solving, adaptability, cross-functional collaboration.  
+
 **Work Style:** Detail-oriented, reliable, and impact-driven.  
 
 
