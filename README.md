@@ -30,4 +30,7 @@ Analyzed how modern language models interpret word meaning through vector-based 
 - Trained embeddings on a text corpus to visualize relationships between semantically related words.
 - Applied dimensionality reduction techniques including PCA and t-SNE to show how similar words cluster in vector space.
 - Analyzed learned embeddings to explain how algorithms capture linguistic context for downstream NLP tasks such as sentiment analysis and topic detection.
-- Gained deeper understanding of data representation, vector similarity, and the logic behind modern language models. 
+- Gained deeper understanding of data representation, vector similarity, and the logic behind modern language models.
+
+
+I build things that help people make sense of complex data. The tools change but the goal stays the same: turning complexity into clarity.
