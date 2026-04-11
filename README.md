@@ -28,7 +28,7 @@ Analyzed how modern language models interpret word meaning through vector-based 
 
 - Implemented Skip-Gram and CBOW architectures using Word2Vec to compare how each learns context from surrounding words.
 - Trained embeddings on a text corpus to visualize relationships between semantically related words.
-- Applied dimensionality reduction techniques including PCA and t-SNE to show how similar words cluster in vector space.
+- Applied dimensionality reduction techniques including PCA and t-SNE to show how similar words cluster in vector spaces.
 - Analyzed learned embeddings to explain how algorithms capture linguistic context for downstream NLP tasks such as sentiment analysis and topic detection.
 - Gained deeper understanding of data representation, vector similarity, and the logic behind modern language models.
 
