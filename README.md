@@ -3,11 +3,13 @@
 Financial and Business Intelligence Analyst with hands-on experience at Airbus Defence and Space, owning the full reporting cycle for a multi-team data and analytics portfolio. Track record of building financial trackers, KPI monitoring frameworks, and executive-ready dashboards that drive operational and financial decisions.
   
 **Tools:** Excel | SAP Analytics Cloud | Power BI | Python | Google Workspace | Jira
+
 **Open to roles in:** Virginia | North Carolina | Remote
+
 [LinkedIn](https://www.linkedin.com/in/bate-bita-tambe-a29ab6221)
 
 
-## Featured projects
+## Featured Projects
 
 ### 1. [Hotel Cancellations Analytics (Python, scikit-learn, Pandas)](https://github.com/bate-bita/Predicting-Hotel-Booking-Cancellations.)
 
