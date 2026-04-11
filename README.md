@@ -17,7 +17,7 @@ Predicted hotel booking cancellations using real-world data to support revenue o
 
 - Cleaned and merged multi-source booking data, handling bias by dropping nationality to ensure fairness.  
 - Analyzed correlations to identify the top five drivers of cancellations: lead time, prior cancellations, booking changes, parking requests, and special requests.  
-- Trained and compared four classification models: Logistic Regression, KNN, Decision Tree, and Random Forest.  
+- Trained and compared four classification models: Logistic Regression, KNN, Decision Tree, and Random Forest.   
 - Achieved the best overall balance with Random Forest at 82% F1 score, while Decision Tree delivered highest recall at 78%, minimizing missed cancellations.  
 - Presented actionable insights for hotel revenue management and overbooking risk reduction.
   
