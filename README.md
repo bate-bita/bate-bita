@@ -9,9 +9,19 @@ Financial and Business Intelligence Analyst with hands-on experience at Airbus D
 [LinkedIn](https://www.linkedin.com/in/bate-bita-tambe-a29ab6221)
 
 
+
 ## Featured Projects
 
-### 1. [Hotel Cancellations Analytics (Python, scikit-learn, Pandas)](https://github.com/bate-bita/Predicting-Hotel-Booking-Cancellations.)
+### 1. [NovaTech Business Performance Dashboard (SAP Analytics Cloud)](https://github.com/bate-bita/NovaTech-Business-Performance-Dashboard)
+
+Built a five page executive BI dashboard in SAP Analytics Cloud analyzing 24 months of fictional business performance data for a global technology company across 5 regions and 4 product lines.
+
+- Designed a structured data model in SAC Modeler with custom calculated measures for variance analysis, gross margin, and RAG performance tracking across revenue, cost, and profitability dimensions.
+- Built interactive dashboards with consistent filtering across all five pages, covering executive summary, revenue performance, cost performance, profitability analysis, and year over year trends.
+- Solved SAC platform limitations including negative value color scaling in heatmaps and alphabetical month sorting through iterative model and design workarounds.
+
+
+### 2. [Hotel Cancellations Analytics (Python, scikit-learn, Pandas)](https://github.com/bate-bita/Predicting-Hotel-Booking-Cancellations.)
 
 Predicted hotel booking cancellations using real-world data to support revenue optimisation decisions.
 
@@ -22,7 +32,7 @@ Predicted hotel booking cancellations using real-world data to support revenue o
 - Presented actionable insights for hotel revenue management and overbooking risk reduction.
   
 
-### 2. [Understanding Text through Word Embeddings (Python, Natural Language Processing)](https://github.com/bate-bita/Word-Embeddings-Natural-Language-Processing-)
+### 3. [Understanding Text through Word Embeddings (Python, Natural Language Processing)](https://github.com/bate-bita/Word-Embeddings-Natural-Language-Processing-)
 
 Analyzed how modern language models interpret word meaning through vector-based text representations.
 
