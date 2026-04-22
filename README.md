@@ -16,9 +16,10 @@ Financial and Business Intelligence Analyst with hands-on experience at Airbus D
 
 Built a five page executive BI dashboard in SAP Analytics Cloud analyzing 24 months of fictional business performance data for a global technology company across 5 regions and 4 product lines.
 
-- Designed a structured data model in SAC Modeler with custom calculated measures for variance analysis, gross margin, and RAG performance tracking across revenue, cost, and profitability dimensions.
-- Built interactive dashboards with consistent filtering across all five pages, covering executive summary, revenue performance, cost performance, profitability analysis, and year over year trends.
-- Solved SAC platform limitations including negative value color scaling in heatmaps and alphabetical month sorting through iterative model and design workarounds.
+* Designed a structured data model in SAC Modeler with custom calculated measures for variance analysis, gross margin, net customer movement, and a RAG performance framework with defined revenue variance thresholds of greater than 3% Green, between -3% and 3% Amber, and below -3% Red.
+* Built interactive dashboards with consistent filtering across all five pages, covering executive summary, revenue performance, cost performance, profitability analysis, and year over year trends.
+* Solved SAC platform limitations including negative value color scaling in heatmaps, alphabetical month sorting, and a headcount aggregation error on scatter plots caused by residual chart configuration, all resolved through iterative model and design workarounds.
+* Applied standard financial reporting conventions throughout, including cost variance directional logic where negative variance represents favorable underspend.
 
 
 ### 2. [Hotel Cancellations Analytics (Python, scikit-learn, Pandas)](https://github.com/bate-bita/Predicting-Hotel-Booking-Cancellations.)
