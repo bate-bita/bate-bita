@@ -1,6 +1,6 @@
-# Bate Bita • Financial and Business Intelligence Analyst
+# Bate Bita • Data Analyst | Business Intelligence | Financial Reporting
 
-Financial and Business Intelligence Analyst with hands-on experience at Airbus Defence and Space, owning the full reporting cycle for a multi-team data and analytics portfolio. Track record of building financial trackers, KPI monitoring frameworks, and executive-ready dashboards that drive operational and financial decisions.
+Business Intelligence Analyst with hands-on experience at Airbus Defence and Space, owning the full reporting cycle for a multi-team data and analytics portfolio. Track record of building financial trackers, KPI monitoring frameworks, and executive-ready dashboards that drive operational and financial decisions.
   
 **Tools:** Excel | SAP Analytics Cloud | Power BI | Python | Google Workspace | Jira
 
