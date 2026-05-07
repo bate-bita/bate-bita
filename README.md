@@ -3,6 +3,7 @@
 Data Analyst specializing in business intelligence and financial reporting, with hands-on experience at Airbus Defence and Space owning the full reporting cycle for a multi-team data and analytics portfolio. Track record of building financial trackers, KPI monitoring frameworks, and executive-ready dashboards that drive operational and financial decisions across international environments.
 
 **Tools:** Excel | SAP Analytics Cloud | Power BI | SQL | Python | Google Workspace | Jira
+
 **Open to roles in:** Virginia | Remote
 
 [LinkedIn](https://www.linkedin.com/in/bate-bita-tambe-a29ab6221)
