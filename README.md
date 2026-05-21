@@ -53,5 +53,5 @@ Analyzed how modern language models interpret word meaning through vector-based 
 ---
 
 
-### I build analytical systems that answer business questions, uncover patterns, and surface clear insights. Translating complexity into decisions people can act on is what I do best.
+### I build analytical systems that answer business questions, uncover patterns, and give decision makers what they need to make the right call.
 
