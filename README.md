@@ -1,13 +1,29 @@
-# Bate Bita • Data Analyst | Business Intelligence | Financial Reporting
+# Bate Bita • Economics Analyst | Data Manager | Business Intelligence
 
-Data Analyst specializing in business intelligence and financial reporting, with hands-on experience at Airbus Defence and Space owning the full reporting cycle for a multi-team data and analytics portfolio. Track record of building financial trackers, KPI monitoring frameworks, and executive-ready dashboards that drive operational and financial decisions across international environments.
+Economics Analyst and Data Manager at the American Road & Transportation Builders Association (ARTBA), working on the data and research behind a subscription market intelligence service for the transportation construction industry.
 
-**Tools:** Excel | SAP Analytics Cloud | Power BI | SQL | Python | Google Workspace | Jira
+I work across the whole life of a dataset: sourcing it, cleaning it, getting it into dashboards people rely on, and building the systems that keep all of that running on schedule.
 
-**Open to roles in:** Virginia | Remote
+**Tools:** Python | Sisense | Databricks | Excel | SAP | Power BI | SQL 
 
 [LinkedIn](https://www.linkedin.com/in/bate-bita-tambe-a29ab6221)
 
+---
+ 
+## What I am working on
+ 
+**Market intelligence data**
+Maintaining the datasets behind published research on contract awards, federal and state transportation funding, construction activity and state DOT budgets.
+ 
+**Reporting systems**
+Designing the tracking and reporting that runs subscriber management, from renewal cycles through to engagement reporting, and presenting it to the leadership team on a fixed cadence.
+ 
+**Data platform migration**
+Supporting a move from Stata to Databricks, with a focus on documenting transformation logic before it is migrated so the outputs stay defensible.
+ 
+**Process design**
+Building repeatable workflows where previously there were none, so the work survives whoever is doing it.
+ 
 ---
 
 ## Featured Projects
