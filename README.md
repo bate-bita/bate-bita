@@ -6,7 +6,7 @@ I work across the whole life of a dataset: sourcing it, cleaning it, getting it 
 
 **Tools:** Python | Sisense | Databricks | Excel | SAP | Power BI | SQL 
 
-[LinkedIn](https://www.linkedin.com/in/bate-bita-tambe-a29ab6221)
+[LinkedIn](https://www.linkedin.com/in/bate-bita-tambe)
 
 ---
  
