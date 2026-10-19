@@ -1,30 +1,18 @@
-# Bate Bita • Economics Analyst | Data Manager | Business Intelligence
+# Bate Bita • Economics Analyst | Data Manager
 
 Economics Analyst and Data Manager at the American Road & Transportation Builders Association (ARTBA), working on the data and research behind a subscription market intelligence service for the transportation construction industry.
 
-I work across the whole life of a dataset: sourcing it, cleaning it, getting it into dashboards people rely on, and building the systems that keep all of that running on schedule.
+I work across the full lifecycle of the product. Sourcing the raw data, cleaning it, preparing it for analysis, and building the dashboards our subscribers use to make decisions.
 
 **Tools:** Python | Sisense | Databricks | Excel | SAP | Power BI | SQL 
 
 [LinkedIn](https://www.linkedin.com/in/bate-bita-tambe)
 
----
+## Currently working on:
  
-## What I am working on
- 
-**Market intelligence data**
-Maintaining the datasets behind published research on contract awards, federal and state transportation funding, construction activity and state DOT budgets.
- 
-**Reporting systems**
-Designing the tracking and reporting that runs subscriber management, from renewal cycles through to engagement reporting, and presenting it to the leadership team on a fixed cadence.
- 
-**Data platform migration**
-Supporting a move from Stata to Databricks, with a focus on documenting transformation logic before it is migrated so the outputs stay defensible.
- 
-**Process design**
-Building repeatable workflows where previously there were none, so the work survives whoever is doing it.
- 
----
+- Maintaining the datasets behind ARTBA's Market Intelligence Service
+- Managing recurring meetings covering subscriber engagement
+- Supporting a process migration from Stata to Databricks
 
 ## Featured Projects
 
